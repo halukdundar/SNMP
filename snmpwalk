@@ -1,7 +1,6 @@
-    The snmpwalk command is a shorthand way to use multiple GETNEXT 
-    requests without having to type lots of different commands, 
-    fire off lots of different GETNEXT and view your infrastructure health. 
-    We look at some snmpwalk examples on Windows and Linux.
+    SNMPwalk is the automated process of collecting metrics from your SNMP-enabled devices. 
+    It groups together different commands, so you don’t have to send multiple 
+    GETNEXT commands to see the available OID parameters or to set threshold values against them. 
     
         
     1.3.6.1.2.1.1.2 - sysObjectID	
