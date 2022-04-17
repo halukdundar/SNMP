@@ -1,7 +1,11 @@
-    SNMPwalk is the automated process of collecting metrics from your SNMP-enabled devices. 
-    It groups together different commands, so you don’t have to send multiple 
-    GETNEXT commands to see the available OID parameters or to set threshold values against them. 
     
+    SNMPwalk, SNMP özellikli cihazlarda;
+    
+    Farklı komutları birlikte gruplandırır, böylece birden fazla komut göndermek zorunda kalmazsınız.
+    
+    GETNEXT, mevcut OID parametrelerini görmek veya bunlara karşı eşik değerleri ayarlamak için komut verir.
+
+
         
     1.3.6.1.2.1.1.2 - sysObjectID	
     1.3.6.1.2.1.1.3 - sysUpTime   
